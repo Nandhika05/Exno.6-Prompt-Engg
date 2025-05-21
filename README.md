@@ -1,13 +1,17 @@
 # Exno.6-Prompt-Engg
 # Date:
-# Register no.
-# Aim: Development of Python Code Compatible with Multiple AI Tools
+# Register no : 212223040125
 
+# Aim: 
 
+    Development of Python Code Compatible with Multiple AI Tools
 
-# Algorithm: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
+# Algorithm: 
+
+    Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
 
 # Procedure:
+
 1.	Choose common AI tools (e.g., TensorFlow, PyTorch, scikit-learn).
 
 2.	Set up the Python environment and install required libraries.
@@ -34,7 +38,3 @@ print(response.text)
 # Result:
 
 The Python code worked successfully with TensorFlow, PyTorch, and scikit-learn, showing good compatibility and easy switching between tools.
-
-
-
-# Result: The corresponding Prompt is executed successfully
